@@ -83,21 +83,17 @@ Bookmarks
 
 #### 5\. Resource Management
 
-##### Handles
-
- - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
- - [A Handle Approach](https://giordi91.github.io/post/resourcesystem/)
- - [Use IDs for Shaders](https://hero.handmade.network/forums/code-discussion/t/2695-rendering_architecture_tier_and_exposing_functions)
-
-##### Generic Resource Managers
-
- - [How to design an AssetManager?](https://gamedev.stackexchange.com/questions/1702/how-to-design-an-assetmanager)
- - [Are Resource Managers any good?](https://gamedev.stackexchange.com/questions/2185/resource-managers-are-they-any-good)
- - [Resource Management](https://thatgamesguy.co.uk/cpp-game-dev-9/)
- - [Heaps.io Resource management](https://heaps.io/documentation/resource-management.html)
- - [Resource management in c++ game engine](https://codereview.stackexchange.com/questions/253737/resource-management-in-c-game-engine)
- - [A Resource Manager for Game Assets](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/a-resource-manager-for-game-assets-r3807/)
-
+ - Handles
+   - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+   - [A Handle Approach](https://giordi91.github.io/post/resourcesystem/)
+   - [Use IDs for Shaders](https://hero.handmade.network/forums/code-discussion/t/2695-rendering_architecture_tier_and_exposing_functions)
+ - Generic Resource Managers
+   - [How to design an AssetManager?](https://gamedev.stackexchange.com/questions/1702/how-to-design-an-assetmanager)
+   - [Are Resource Managers any good?](https://gamedev.stackexchange.com/questions/2185/resource-managers-are-they-any-good)
+   - [Resource Management](https://thatgamesguy.co.uk/cpp-game-dev-9/)
+   - [Heaps.io Resource management](https://heaps.io/documentation/resource-management.html)
+   - [Resource management in c++ game engine](https://codereview.stackexchange.com/questions/253737/resource-management-in-c-game-engine)
+   - [A Resource Manager for Game Assets](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/a-resource-manager-for-game-assets-r3807/)
 
 #### 6\. Asset Streaming
 
@@ -149,62 +145,53 @@ Bookmarks
 
 #### 11\. ECS
 
-##### Intros
-
- - [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
- - [Cowboy Programming » Evolve Your Hierarchy](https://web.archive.org/web/20220314040555/http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
- - [Mike Acton ECS Presentation](https://www.youtube.com/watch?v=rX0ItVEVjHc)
- - [Jonathan Blow ECS Presentation](https://www.youtube.com/watch?v=ZHqFrNyLlpA)
- - [Misconceptions of Component-Based Entity Systems - Shanee's Diaries](http://web.archive.org/web/20150206041602/http://www.shaneenishry.com/blog/2014/12/27/misconceptions-of-component-based-entity-systems/)
- - [Component Based Engine Design | Randy Gaul's Game Programming Blog](https://web.archive.org/web/20180305180349/http://www.randygaul.net/2013/05/20/component-based-engine-design/)
- - [Understanding Component-Entity-Systems - General and Gameplay Programming - Tutorials - GameDev.net](https://www.gamedev.net/tutorials/_/technical/game-programming/understanding-component-entity-systems-r3013/)
- - [Unity ECS Presentation](https://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf)
- - [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP) – Games from Within](https://gamesfromwithin.com/data-oriented-design)
- - [Scott Meyers - CPU Caches and Why You care on Vimeo](https://vimeo.com/97337258)
- - [Explaining Data Oriented Design](http://www.codersnotes.com/notes/explaining-data-oriented-design/)
-
-##### Inter-component communication
-
- - [Inter-System Communication](https://gamedev.stackexchange.com/questions/97729/entity-component-system-communication-between-components)
- - [Communication in ECS : gamedev](https://www.reddit.com/r/gamedev/comments/3ec8b0/communication_in_ecs/)
- - [Interaction between systems](https://softwareengineering.stackexchange.com/questions/133159/entity-component-system-architecture-interaction-between-systems)
- - [Complex SC dependencies in ECS](https://gamedev.stackexchange.com/questions/114197/complex-system-component-dependencies-in-entity-component-system)
-
-##### Archetypes
-
- - [Trouble implementing archetypes while writing my ECS : gamedev](https://www.reddit.com/r/gamedev/comments/yd77qn/trouble_implementing_archetypes_while_writing_my/)
- - [What are archetypes? - entity-component-scrapyard](https://rust-tutorials.github.io/entity-component-scrapyard/03-Archetypes/archetype-explanation.html)
- - [entity system - How to Implement ECS Archetypes in C#? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/189418/how-to-implement-ecs-archetypes-in-c)
- - [entity component system - In ECS, how to decrease health? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/202308/in-ecs-how-to-decrease-health)
- - [Building an ECS #2: Archetypes and Vectorization | by Sander Mertens | Medium](https://ajmmertens.medium.com/building-an-ecs-2-archetypes-and-vectorization-fe21690805f9)
- - [javascript - What data structure do I use to store Archetypes in ECS? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/192502/what-data-structure-do-i-use-to-store-archetypes-in-ecs)
- - [architecture - How do you handle entity life-time and entities without all components in an ECS? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/182638/how-do-you-handle-entity-life-time-and-entities-without-all-components-in-an-ecs)
- - [c# - Fastest way to look up an entity with a set of components? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/173780/fastest-way-to-look-up-an-entity-with-a-set-of-components)
- - [genaray/Arch: A high performance c# Archetype Entity Component System ( ECS ).](https://github.com/genaray/Arch)
-
- - [Build a Game Engine from Scratch in C++ | HackerNoon](https://hackernoon.com/build-a-game-engine-from-scratch-in-c)
+ - Intros
+   - [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
+   - [Cowboy Programming » Evolve Your Hierarchy](https://web.archive.org/web/20220314040555/http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
+   - [Mike Acton ECS Presentation](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+   - [Jonathan Blow ECS Presentation](https://www.youtube.com/watch?v=ZHqFrNyLlpA)
+   - [Misconceptions of Component-Based Entity Systems - Shanee's Diaries](http://web.archive.org/web/20150206041602/http://www.shaneenishry.com/blog/2014/12/27/misconceptions-of-component-based-entity-systems/)
+   - [Component Based Engine Design | Randy Gaul's Game Programming Blog](https://web.archive.org/web/20180305180349/http://www.randygaul.net/2013/05/20/component-based-engine-design/)
+   - [Understanding Component-Entity-Systems - General and Gameplay Programming - Tutorials - GameDev.net](https://www.gamedev.net/tutorials/_/technical/game-programming/understanding-component-entity-systems-r3013/)
+   - [Unity ECS Presentation](https://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf)
+   - [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP) – Games from Within](https://gamesfromwithin.com/data-oriented-design)
+   - [Scott Meyers - CPU Caches and Why You care on Vimeo](https://vimeo.com/97337258)
+   - [Explaining Data Oriented Design](http://www.codersnotes.com/notes/explaining-data-oriented-design/)
+ - Inter-component communication
+   - [Inter-System Communication](https://gamedev.stackexchange.com/questions/97729/entity-component-system-communication-between-components)
+   - [Communication in ECS : gamedev](https://www.reddit.com/r/gamedev/comments/3ec8b0/communication_in_ecs/)
+   - [Interaction between systems](https://softwareengineering.stackexchange.com/questions/133159/entity-component-system-architecture-interaction-between-systems)
+   - [Complex SC dependencies in ECS](https://gamedev.stackexchange.com/questions/114197/complex-system-component-dependencies-in-entity-component-system)
+ - Archetypes
+   - [Trouble implementing archetypes while writing my ECS : gamedev](https://www.reddit.com/r/gamedev/comments/yd77qn/trouble_implementing_archetypes_while_writing_my/)
+   - [What are archetypes? - entity-component-scrapyard](https://rust-tutorials.github.io/entity-component-scrapyard/03-Archetypes/archetype-explanation.html)
+   - [entity system - How to Implement ECS Archetypes in C#? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/189418/how-to-implement-ecs-archetypes-in-c)
+   - [entity component system - In ECS, how to decrease health? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/202308/in-ecs-how-to-decrease-health)
+   - [Building an ECS #2: Archetypes and Vectorization | by Sander Mertens | Medium](https://ajmmertens.medium.com/building-an-ecs-2-archetypes-and-vectorization-fe21690805f9)
+   - [javascript - What data structure do I use to store Archetypes in ECS? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/192502/what-data-structure-do-i-use-to-store-archetypes-in-ecs)
+   - [architecture - How do you handle entity life-time and entities without all components in an ECS? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/182638/how-do-you-handle-entity-life-time-and-entities-without-all-components-in-an-ecs)
+   - [c# - Fastest way to look up an entity with a set of components? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/173780/fastest-way-to-look-up-an-entity-with-a-set-of-components)
+   - [genaray/Arch: A high performance c# Archetype Entity Component System ( ECS ).](https://github.com/genaray/Arch)
+   - [Build a Game Engine from Scratch in C++ | HackerNoon](https://hackernoon.com/build-a-game-engine-from-scratch-in-c)
 
 #### 12\. Reflection and Serialization (of Components)
 
-##### ECS Serialization
-
- - [c++ - ECS serialization - Stack Overflow](https://stackoverflow.com/questions/52925664/ecs-serialization)
- - [entity component system - SQL Database structure for ECS - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/198826/sql-database-structure-for-ecs)
-
- - [Small C++ Reflection Demo | Randy Gaul's Game Programming Blog](https://web.archive.org/web/20171010001130/http://www.randygaul.net/2014/12/18/small-c-reflection-demo/)
- - [How to Write Your Own C++ Game Engine](https://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/)
+ - ECS Serialization
+   - [c++ - ECS serialization - Stack Overflow](https://stackoverflow.com/questions/52925664/ecs-serialization)
+   - [entity component system - SQL Database structure for ECS - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/198826/sql-database-structure-for-ecs)
+   - [Small C++ Reflection Demo | Randy Gaul's Game Programming Blog](https://web.archive.org/web/20171010001130/http://www.randygaul.net/2014/12/18/small-c-reflection-demo/)
+   - [How to Write Your Own C++ Game Engine](https://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/)
 
 #### 13\. Editing
 
  - [Your game will always be paused in edit mode – deWiTTERS](https://dewitters.com/your-game-will-always-be-paused-in-edit-mode/)
  - [Scripting in RPG Playground – deWiTTERS](https://dewitters.com/scripting-in-rpg-playground/)
 
-##### Physics, Math, Rendering and Misc
+##### 14. Physics, Math, Rendering and Misc
 
-###### Mouse Coordinates
-
- - [Mouse to World Coordinates - 3D Programming - Game Coding Complete Community](https://www.mcshaffry.com/GameCode/index.php/Thread/1600-Mouse-to-World-Coordinates/)
- - [Calculating world coordinates from depth value - 3D Programming - Game Coding Complete Community](https://www.mcshaffry.com/GameCode/index.php/Thread/1978-Calculating-world-coordinates-from-depth-value/)
+ - Mouse Coordinates
+   - [Mouse to World Coordinates - 3D Programming - Game Coding Complete Community](https://www.mcshaffry.com/GameCode/index.php/Thread/1600-Mouse-to-World-Coordinates/)
+   - [Calculating world coordinates from depth value - 3D Programming - Game Coding Complete Community](https://www.mcshaffry.com/GameCode/index.php/Thread/1978-Calculating-world-coordinates-from-depth-value/)
  - [Physics in 3D | Gaffer](https://new.gafferongames.com/post/physics_in_3d/)
  - [drummyfish/tinyphysicsengine: ultra tiny suckless physics engine - tinyphysicsengine - Codeberg.org](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master)
  - [A\*](https://web.archive.org/web/20181105191501/http://www.randygaul.net/2015/08/18/a-star/)
@@ -219,11 +206,11 @@ Bookmarks
  - [tinysound Release | Randy Gaul's Game Programming Blog](https://web.archive.org/web/20180329151242/http://www.randygaul.net/2016/06/05/tinysound-release)
  - [Cowboy Programming » Mature Optimization](https://cowboyprogramming.com/2007/01/04/mature-optimization-2/)
 
-##### Skybox and Clouds
+#### Skybox and Clouds
 
  - [How Big Budget AAA Games Render Clouds - YouTube](https://www.youtube.com/watch?v=Qj_tK_mdRcA&t=640s)
 
-##### Advanced
+#### Advanced Topics
 
  - [https://mamoniem.com/behind-the-pretty-frames-death-stranding/](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
  - [Explaining how fighting games use delay-based and rollback netcode | Ars Technica](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/)
