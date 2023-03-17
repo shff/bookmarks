@@ -5,9 +5,9 @@ Bookmarks
 
 #### OOP
 
- - [Case against OOP is understated, not overstated (2020) | Hacker News](https://news.ycombinator.com/item?id=30293622)
- - [Software reuse is more like an organ transplant than snapping Lego blocks (2011) | Hacker News](https://news.ycombinator.com/item?id=23630640)
- - [Object-Oriented Programming: A Disaster Story | by Brian Will | Medium](https://medium.com/@brianwill/object-oriented-programming-a-personal-disaster-1b044c2383ab)
+ - [Case against OOP is understated, not overstated (2020)](https://news.ycombinator.com/item?id=30293622)
+ - [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://news.ycombinator.com/item?id=23630640)
+ - [Object-Oriented Programming: A Disaster Story - by Brian Will](https://medium.com/@brianwill/object-oriented-programming-a-personal-disaster-1b044c2383ab)
  - [What's Wrong With Object-Oriented Programming?](https://www.yegor256.com/2016/08/15/what-is-wrong-object-oriented-programming.html)
  - [Design Patterns and Anti-Patterns, Love and Hate](https://www.yegor256.com/2016/02/03/design-patterns-and-anti-patterns.html)
  - [Vicious Circle of Generalization](https://jahej.com/alt/2011_04_01_vicious-circle-of-generalization.html)
@@ -36,7 +36,7 @@ Bookmarks
 
  - [Create Your Own Compiler - Caught in the Web](https://citw.dev/tutorial/create-your-own-compiler)
  - [How to create a programming language in rust? : rust](https://www.reddit.com/r/rust/comments/anperv/how_to_create_a_programming_language_in_rust/)
- - [Code generation is becoming really important in Go. Why even use an ORM when htt... | Hacker News](https://news.ycombinator.com/item?id=33779392)
+ - [Code generation is becoming really important in Go. Why even use an ORM when htt...](https://news.ycombinator.com/item?id=33779392)
 
 ## Game Engine Design
 
@@ -51,14 +51,14 @@ Bookmarks
 #### 2\. Hot Reloading
 
  - [Exile: Hot Reloading – Max Slater – Computer Graphics, Programming, and Math](https://thenumb.at/Hot-Reloading-in-Exile/)
- - [Hot Reloadable structs: Memory Mapping | Mun, a programming language empowering creation through iteration.](https://mun-lang.org/blog/2020/05/01/memory-mapping/)
+ - [Hot Reloadable structs: Memory Mapping - Mun, a programming language empowering creation through iteration.](https://mun-lang.org/blog/2020/05/01/memory-mapping/)
  - [DLL Hot Reloading in Theory and Practice · Our Machinery](http://web.archive.org/web/20210830070718/https://ourmachinery.com/post/dll-hot-reloading-in-theory-and-practice/)
- - [Using runtime-compiled C++ code as a scripting language: under the hood | Molecular Musings](https://blog.molecular-matters.com/2014/05/10/using-runtime-compiled-c-code-as-a-scripting-language-under-the-hood/)
+ - [Using runtime-compiled C++ code as a scripting language: under the hood - Molecular Musings](https://blog.molecular-matters.com/2014/05/10/using-runtime-compiled-c-code-as-a-scripting-language-under-the-hood/)
  - [serge1/COFFI: A header-only C++ library for accessing files in COFF binary format. (Including Windows PE/PE+ formats)](https://github.com/serge1/COFFI)
  - [rokups/ReflectiveLdr: Position-idependent Windows DLL loader based on ReflectiveDLL project.](https://github.com/rokups/ReflectiveLdr)
  - [How not to use DLLs by h3r2tic](http://web.archive.org/web/20180715205232/http://h3.gd/posts/how-not-to-use-dlls/)
- - [Using Shared Memory in a Dynamic-Link Library - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-gb/windows/win32/dlls/using-shared-memory-in-a-dynamic-link-library?redirectedfrom=MSDN)
- - [Centralized Memory Management | sasluca.github.io](https://sasluca.github.io/cmm.html)
+ - [Using Shared Memory in a Dynamic-Link Library - Win32 apps - Microsoft Learn](https://learn.microsoft.com/en-gb/windows/win32/dlls/using-shared-memory-in-a-dynamic-link-library?redirectedfrom=MSDN)
+ - [Centralized Memory Management - sasluca.github.io](https://sasluca.github.io/cmm.html)
  - [gcc - Is it possible to do hot code swapping in C? - Stack Overflow](https://stackoverflow.com/questions/3973498/is-it-possible-to-do-hot-code-swapping-in-c)
  - [cross platform - Hot-pluggable C++ library possible? - Stack Overflow](https://stackoverflow.com/questions/3103691/hot-pluggable-c-library-possible)
  - [Safe method for updating R packages - is "hot-swapping" possible? - Stack Overflow](https://stackoverflow.com/questions/9026443/safe-method-for-updating-r-packages-is-hot-swapping-possible)
@@ -77,7 +77,7 @@ Bookmarks
 #### 4\. Game Loops
 
  - [deWiTTERS Game Loop](https://dewitters.com/dewitters-gameloop/)
- - [Fix Your Timestep! | Gaffer](https://new.gafferongames.com/post/fix_your_timestep/)
+ - [Fix Your Timestep! - Gaffer](https://new.gafferongames.com/post/fix_your_timestep/)
  - [Game Loop Pattern](https://gameprogrammingpatterns.com/game-loop.html)
  - [Unity Loop Lifecycle](https://docs.unity3d.com/Manual/ExecutionOrder.html)
 
@@ -151,7 +151,7 @@ Bookmarks
    - [Mike Acton ECS Presentation](https://www.youtube.com/watch?v=rX0ItVEVjHc)
    - [Jonathan Blow ECS Presentation](https://www.youtube.com/watch?v=ZHqFrNyLlpA)
    - [Misconceptions of Component-Based Entity Systems - Shanee's Diaries](http://web.archive.org/web/20150206041602/http://www.shaneenishry.com/blog/2014/12/27/misconceptions-of-component-based-entity-systems/)
-   - [Component Based Engine Design | Randy Gaul's Game Programming Blog](https://web.archive.org/web/20180305180349/http://www.randygaul.net/2013/05/20/component-based-engine-design/)
+   - [Component Based Engine Design - Randy Gaul's Game Programming Blog](https://web.archive.org/web/20180305180349/http://www.randygaul.net/2013/05/20/component-based-engine-design/)
    - [Understanding Component-Entity-Systems - General and Gameplay Programming - Tutorials - GameDev.net](https://www.gamedev.net/tutorials/_/technical/game-programming/understanding-component-entity-systems-r3013/)
    - [Unity ECS Presentation](https://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf)
    - [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP) – Games from Within](https://gamesfromwithin.com/data-oriented-design)
@@ -167,19 +167,19 @@ Bookmarks
    - [What are archetypes? - entity-component-scrapyard](https://rust-tutorials.github.io/entity-component-scrapyard/03-Archetypes/archetype-explanation.html)
    - [entity system - How to Implement ECS Archetypes in C#? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/189418/how-to-implement-ecs-archetypes-in-c)
    - [entity component system - In ECS, how to decrease health? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/202308/in-ecs-how-to-decrease-health)
-   - [Building an ECS #2: Archetypes and Vectorization | by Sander Mertens | Medium](https://ajmmertens.medium.com/building-an-ecs-2-archetypes-and-vectorization-fe21690805f9)
+   - [Building an ECS #2: Archetypes and Vectorization - by Sander Mertens - Medium](https://ajmmertens.medium.com/building-an-ecs-2-archetypes-and-vectorization-fe21690805f9)
    - [javascript - What data structure do I use to store Archetypes in ECS? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/192502/what-data-structure-do-i-use-to-store-archetypes-in-ecs)
    - [architecture - How do you handle entity life-time and entities without all components in an ECS? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/182638/how-do-you-handle-entity-life-time-and-entities-without-all-components-in-an-ecs)
    - [c# - Fastest way to look up an entity with a set of components? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/173780/fastest-way-to-look-up-an-entity-with-a-set-of-components)
    - [genaray/Arch: A high performance c# Archetype Entity Component System ( ECS ).](https://github.com/genaray/Arch)
-   - [Build a Game Engine from Scratch in C++ | HackerNoon](https://hackernoon.com/build-a-game-engine-from-scratch-in-c)
+   - [Build a Game Engine from Scratch in C++ - HackerNoon](https://hackernoon.com/build-a-game-engine-from-scratch-in-c)
 
 #### 12\. Reflection and Serialization (of Components)
 
  - ECS Serialization
    - [c++ - ECS serialization - Stack Overflow](https://stackoverflow.com/questions/52925664/ecs-serialization)
    - [entity component system - SQL Database structure for ECS - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/198826/sql-database-structure-for-ecs)
-   - [Small C++ Reflection Demo | Randy Gaul's Game Programming Blog](https://web.archive.org/web/20171010001130/http://www.randygaul.net/2014/12/18/small-c-reflection-demo/)
+   - [Small C++ Reflection Demo - Randy Gaul's Game Programming Blog](https://web.archive.org/web/20171010001130/http://www.randygaul.net/2014/12/18/small-c-reflection-demo/)
    - [How to Write Your Own C++ Game Engine](https://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/)
 
 #### 13\. Editing
@@ -192,18 +192,18 @@ Bookmarks
  - Mouse Coordinates
    - [Mouse to World Coordinates - 3D Programming - Game Coding Complete Community](https://www.mcshaffry.com/GameCode/index.php/Thread/1600-Mouse-to-World-Coordinates/)
    - [Calculating world coordinates from depth value - 3D Programming - Game Coding Complete Community](https://www.mcshaffry.com/GameCode/index.php/Thread/1978-Calculating-world-coordinates-from-depth-value/)
- - [Physics in 3D | Gaffer](https://new.gafferongames.com/post/physics_in_3d/)
+ - [Physics in 3D - Gaffer](https://new.gafferongames.com/post/physics_in_3d/)
  - [drummyfish/tinyphysicsengine: ultra tiny suckless physics engine - tinyphysicsengine - Codeberg.org](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master)
  - [A\*](https://web.archive.org/web/20181105191501/http://www.randygaul.net/2015/08/18/a-star/)
- - [Computing AABB Trick (Loop Trick) | Randy Gaul's Game Programming Blog](https://web.archive.org/web/20171010004939/http://www.randygaul.net/2015/01/08/computing-aabb-trick/)
+ - [Computing AABB Trick (Loop Trick) - Randy Gaul's Game Programming Blog](https://web.archive.org/web/20171010004939/http://www.randygaul.net/2015/01/08/computing-aabb-trick/)
  - [WebGL - Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
  - [performance - OpenGL - How to calculate normals in a terrain height grid? - Stack Overflow](https://stackoverflow.com/questions/13983189/opengl-how-to-calculate-normals-in-a-terrain-height-grid)
  - [Inigo Quilez :: computer graphics, mathematics, shaders, fractals, demoscene and more](https://iquilezles.org/articles/texturerepetition/)
- - [robot frog | 3d | terrain generation tutorial](http://www.stuffwithstuff.com/robot-frog/3d/hills/index.html)
+ - [robot frog - 3d - terrain generation tutorial](http://www.stuffwithstuff.com/robot-frog/3d/hills/index.html)
  - [Resources - Isetta Engine](https://isetta.io/resources/)
  - [That \`overloaded\` Trick: Overloading Lambdas in C++17 - DEV Community 👩‍💻👨‍💻](https://dev.to/tmr232/that-overloaded-trick-overloading-lambdas-in-c17)
  - [ellisonleao/magictools: A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
- - [tinysound Release | Randy Gaul's Game Programming Blog](https://web.archive.org/web/20180329151242/http://www.randygaul.net/2016/06/05/tinysound-release)
+ - [tinysound Release - Randy Gaul's Game Programming Blog](https://web.archive.org/web/20180329151242/http://www.randygaul.net/2016/06/05/tinysound-release)
  - [Cowboy Programming » Mature Optimization](https://cowboyprogramming.com/2007/01/04/mature-optimization-2/)
 
 #### Skybox and Clouds
@@ -213,7 +213,7 @@ Bookmarks
 #### Advanced Topics
 
  - [https://mamoniem.com/behind-the-pretty-frames-death-stranding/](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
- - [Explaining how fighting games use delay-based and rollback netcode | Ars Technica](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/)
+ - [Explaining how fighting games use delay-based and rollback netcode - Ars Technica](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/)
 
 ## 3D Maps
 
@@ -241,23 +241,23 @@ Bookmarks
  - [🎈 Public Lab: Aerial Imagery in the Public Domain](https://publiclab.org/wiki/aerial-imagery-in-the-public-domain)
  - [15 Free Satellite Imagery Data Sources - GIS Geography](https://gisgeography.com/free-satellite-imagery-data-list/)
  - [EarthExplorer](https://earthexplorer.usgs.gov/)
- - [How can I download orthoimagery in bulk? | U.S. Geological Survey](https://www.usgs.gov/faqs/how-can-i-download-orthoimagery-bulk)
+ - [How can I download orthoimagery in bulk? - U.S. Geological Survey](https://www.usgs.gov/faqs/how-can-i-download-orthoimagery-bulk)
  - [USGS Earth Explorer: Download Free Landsat Imagery](https://gisgeography.com/usgs-earth-explorer-download-free-landsat-imagery/)
  - [Top 20 Free Satellite Imagery Sources: Update For 2021](https://eos.com/blog/free-satellite-imagery-sources/)
 
 #### Existing Products
 
- - [Maps SDK for Unity: 3D worlds, AR, & POIs | Mapbox](https://www.mapbox.com/unity)
- - [Real World Terrain | Terrain | Unity Asset Store](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752)
- - [ArcGIS Maps SDK for Unity | ArcGIS Developers](https://developers.arcgis.com/unity/)
- - [Maps SDK for Unity Overview  |  Gaming Maps Platform Gaming Services  |  Google Developers](https://developers.google.com/maps/documentation/gaming/overview_musk)
+ - [Maps SDK for Unity: 3D worlds, AR, & POIs - Mapbox](https://www.mapbox.com/unity)
+ - [Real World Terrain - Terrain - Unity Asset Store](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752)
+ - [ArcGIS Maps SDK for Unity - ArcGIS Developers](https://developers.arcgis.com/unity/)
+ - [Maps SDK for Unity Overview  -  Gaming Maps Platform Gaming Services  -  Google Developers](https://developers.google.com/maps/documentation/gaming/overview_musk)
  - [domlysz/BlenderGIS: Blender addons to make the bridge between Blender and geographic data](https://github.com/domlysz/BlenderGIS)
  - [Home - GO Map - Unity 3D Asset](https://gomap-asset.com/)
  - [s l o w  r o a d s](https://slowroads.io/)
  - [Bring the real world into your game with Google Maps Unity](https://www.ancoris.com/blog/bring-real-world-into-game-google-maps-unity)
- - [3D Maps and Indoor Mapping Platform | WRLD3D](https://www.wrld3d.com/#INTRO)
- - [3D Maps Platform | WRLD3D](https://www.wrld3d.com/3d-maps/)
- - [Mixed Reality SDK for Unity 3D Mapping | Bing Maps](https://www.microsoft.com/en-us/maps/mixed-reality)
+ - [3D Maps and Indoor Mapping Platform - WRLD3D](https://www.wrld3d.com/#INTRO)
+ - [3D Maps Platform - WRLD3D](https://www.wrld3d.com/3d-maps/)
+ - [Mixed Reality SDK for Unity 3D Mapping - Bing Maps](https://www.microsoft.com/en-us/maps/mixed-reality)
 
 ## Automatic Rigging
 
@@ -296,13 +296,13 @@ Bookmarks
 #### Automatic Tiling
 
  - [lzqsd/TileableTextureSynthesis](https://github.com/lzqsd/TileableTextureSynthesis)
- - [Texture Synthesis : Generating arbitrarily large textures from image patches. | by Devashi Choudhary | Medium](https://devashi-choudhary.medium.com/texture-synthesis-generating-arbitrarily-large-textures-from-image-patches-32dd49e2d637)
- - [Texture Synthesis | Papers With Code](https://paperswithcode.com/task/texture-synthesis)
+ - [Texture Synthesis : Generating arbitrarily large textures from image patches. - by Devashi Choudhary - Medium](https://devashi-choudhary.medium.com/texture-synthesis-generating-arbitrarily-large-textures-from-image-patches-32dd49e2d637)
+ - [Texture Synthesis - Papers With Code](https://paperswithcode.com/task/texture-synthesis)
 
 ##### Existing Products
 
  - [Bounding Box Software - Materialize](http://boundingboxsoftware.com/materialize/index.php)
- - [ArmorLab | AI-Powered Texture Authoring](https://armorlab.org/download.html)
+ - [ArmorLab - AI-Powered Texture Authoring](https://armorlab.org/download.html)
  - [Poly: Generate design assets with A.I.](https://withpoly.com/)
  - [TextureWorks: Artificial Intelligence Based texture Synthesizer ⁠— GraphicAll](https://blender.community/c/graphicall/ghbbbc/?sorting=hot)
  - [AI-Generated Game Textures and Concept Art - Development Blog - Ultra Engine Community - Best game engine for VR optimized for fastest virtual reality performance](https://www.ultraengine.com/community/blogs/entry/2793-ai-generated-game-textures-and-concept-art/)
@@ -343,7 +343,7 @@ Bookmarks
  - [Optimal Tesselation](http://www.humus.name/index.php?page=News&ID=228)
  - [https://liu.diva-portal.org/smash/get/diva2:1320121/FULLTEXT01.pdf](https://liu.diva-portal.org/smash/get/diva2:1320121/FULLTEXT01.pdf)
  - [https://www.graphics.rwth-aachen.de/media/papers/mesh.pdf](https://www.graphics.rwth-aachen.de/media/papers/mesh.pdf)
- - [Picasso: A CUDA-based Library for Deep Learning over 3D Meshes | DeepAI](https://deepai.org/publication/picasso-a-cuda-based-library-for-deep-learning-over-3d-meshes)
+ - [Picasso: A CUDA-based Library for Deep Learning over 3D Meshes - DeepAI](https://deepai.org/publication/picasso-a-cuda-based-library-for-deep-learning-over-3d-meshes)
  - [https://hhoppe.com/newqem.pdf](https://hhoppe.com/newqem.pdf)
 
 ##### Big Libraries
@@ -383,7 +383,7 @@ Bookmarks
 
 ##### Automatic Normal Baking
 
- - [Chapter 22. Baking Normal Maps on the GPU | NVIDIA Developer](https://developer.nvidia.com/gpugems/gpugems3/part-iv-image-effects/chapter-22-baking-normal-maps-gpu)
+ - [Chapter 22. Baking Normal Maps on the GPU - NVIDIA Developer](https://developer.nvidia.com/gpugems/gpugems3/part-iv-image-effects/chapter-22-baking-normal-maps-gpu)
  - [Normal Map generation? - OpenGL / OpenGL: Advanced Coding - Khronos Forums](https://community.khronos.org/t/normal-map-generation/60885/5)
  - [Total Baker - Texture Baking System - Unity Forum](https://forum.unity.com/threads/total-baker-texture-baking-system.546341/)
  - [Baking techniques – Texturing.xyz](https://texturing.xyz/pages/vface-docs-1-1-baking-techniques)
