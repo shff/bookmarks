@@ -119,16 +119,16 @@ Bookmarks
  - [Bevy Scenes Discussion](https://github.com/bevyengine/bevy/discussions/654)
  - [Managing Game States in C++](http://gamedevgeek.com/tutorials/managing-game-states-in-c/)
 
-#### 8\. Render Queue (for Decoupling and Sorting)
+#### 8\. Render Queue (for Decoupling, Sorting and Performance)
 
  - [Cost of State Changes](https://computergraphics.stackexchange.com/questions/37/what-is-the-cost-of-changing-state/46#46)
- - [Virtual Textures](https://computergraphics.stackexchange.com/questions/1768/how-can-virtual-texturing-actually-be-efficient/1773#1773)
  - [Why are Render Queues needed?](https://www.gamedev.net/forums/topic/674377-render-queues-why-are-they-needed/5269001/)
  - [Sorting Order](http://developer.amd.com/wordpress/media/2012/10/Depth_in-depth.pdf)
  - [Render Queue Sorting, HOW?](https://gamedev.stackexchange.com/questions/105342/render-queue-sorting-how)
  - [Order your graphics draw calls around! – realtimecollisiondetection.net – the blog](http://realtimecollisiondetection.net/blog/?p=86)
  - [Sorting front-to-back](https://www.reddit.com/r/GraphicsProgramming/comments/twc9km/sorting_opaque_objects_fronttoback_vs_minimizing/)
  - [Rendering with a sort key : gameenginedevs](https://www.reddit.com/r/gameenginedevs/comments/yi7ke2/rendering_with_a_sort_key/)
+ - [Virtual Textures](https://computergraphics.stackexchange.com/questions/1768/how-can-virtual-texturing-actually-be-efficient/1773#1773)
 
 #### 9\. Antipattern: Scene Graph
 
@@ -187,11 +187,20 @@ Bookmarks
  - [Your game will always be paused in edit mode – deWiTTERS](https://dewitters.com/your-game-will-always-be-paused-in-edit-mode/)
  - [Scripting in RPG Playground – deWiTTERS](https://dewitters.com/scripting-in-rpg-playground/)
 
-##### 14. Physics, Math, Rendering and Misc
+#### 14\. Misc
 
- - Mouse Coordinates
+##### Input and 3D
+
+ - Conversion of Mouse Coordinates
    - [Mouse to World Coordinates - 3D Programming - Game Coding Complete Community](https://www.mcshaffry.com/GameCode/index.php/Thread/1600-Mouse-to-World-Coordinates/)
    - [Calculating world coordinates from depth value - 3D Programming - Game Coding Complete Community](https://www.mcshaffry.com/GameCode/index.php/Thread/1978-Calculating-world-coordinates-from-depth-value/)
+
+##### PBR
+
+ - [Different maps in PBR Textures](https://www.a23d.co/blog/different-maps-in-pbr-textures/)
+
+##### Physics
+ 
  - [Physics in 3D - Gaffer](https://new.gafferongames.com/post/physics_in_3d/)
  - [drummyfish/tinyphysicsengine: ultra tiny suckless physics engine - tinyphysicsengine - Codeberg.org](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master)
  - [A\*](https://web.archive.org/web/20181105191501/http://www.randygaul.net/2015/08/18/a-star/)
