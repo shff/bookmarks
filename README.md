@@ -227,6 +227,10 @@ Bookmarks
  - [https://mamoniem.com/behind-the-pretty-frames-death-stranding/](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
  - [Explaining how fighting games use delay-based and rollback netcode - Ars Technica](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/)
 
+## Retro Gaming
+
+ - [Extracting Neo Geo Emulator Graphics Data to Create Animated gifs](https://mattgreer.dev/blog/extracting-neo-geo-emulator-graphics-data-to-create-animated-gifs/)
+
 ## 3D Maps
 
 ### Practical
