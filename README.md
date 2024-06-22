@@ -1,9 +1,13 @@
 Bookmarks
 =========
 
+## UI/UX
+
+ - [Free Open Source UI Resources](https://www.uidesigndaily.com/)
+
 ## Programming Theory 🧠
 
-#### OOP
+### OOP
 
  - [Case against OOP is understated, not overstated (2020)](https://news.ycombinator.com/item?id=30293622)
  - [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://news.ycombinator.com/item?id=23630640)
@@ -14,7 +18,7 @@ Bookmarks
  - [Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks - YouTube](https://www.youtube.com/watch?v=FyCYva9DhsI)
  - [Object-Oriented Programming is Bad - YouTube](https://www.youtube.com/watch?v=QM1iUe6IofM&app=desktop)
 
-#### FP
+### FP
 
  - [Total Functional Programming](https://github.com/mietek/total-fp/blob/master/README.md)
  - [Hindley-Milner in Rust](https://rickyhan.com/jekyll/update/2018/05/26/hindley-milner-tutorial-rust.html)
@@ -23,7 +27,7 @@ Bookmarks
  - [Constraints Liberate, Liberties Constrain — Runar Bjarnason - YouTube](https://www.youtube.com/watch?v=GqmsQeSzMdw)
  - [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 
-#### General
+### General
 
  - [Languages I want to write](https://blog.wesleyac.com/posts/language-todos)
  - ["The Mess We're In" by Joe Armstrong - YouTube](https://www.youtube.com/watch?v=lKXe3HUG2l4)
@@ -32,7 +36,7 @@ Bookmarks
  - [Programming Sucks](http://www.stilldrinking.com/programming-sucks)
  - [GeePaw Hill on Twitter: "Refactoring Pro-Tip: When I tackle a long method, the first thing I do is make my local variables maximally local." / Twitter](https://twitter.com/GeePawHill/status/1108545673958473731)
 
-#### Compilers
+### Compilers
 
  - [Create Your Own Compiler - Caught in the Web](https://citw.dev/tutorial/create-your-own-compiler)
  - [How to create a programming language in rust? : rust](https://www.reddit.com/r/rust/comments/anperv/how_to_create_a_programming_language_in_rust/)
@@ -40,7 +44,7 @@ Bookmarks
 
 ## Game Engine Design
 
-#### 1\. Engine and Game Decoupling
+### 1\. Engine and Game Decoupling
 
  - ["Control Flow" Design Options?](https://gamedev.stackexchange.com/questions/149330/game-engine-control-flow-design-options)
  - [Separating game data/logic from rendering](https://gamedev.stackexchange.com/questions/62980/separating-game-data-logic-from-rendering?rq=1)
@@ -48,7 +52,7 @@ Bookmarks
  - [Casey Muratori Interview](https://isetta.io/interviews/CaseyMuratori-interview/)
  - [Decoupling the editor and engine](https://www.reddit.com/r/gamedev/comments/p4dnpd/comment/h8yfit7/)
 
-#### 2\. Hot Reloading
+### 2\. Hot Reloading
 
  - [Exile: Hot Reloading – Max Slater – Computer Graphics, Programming, and Math](https://thenumb.at/Hot-Reloading-in-Exile/)
  - [Hot Reloadable structs: Memory Mapping - Mun, a programming language empowering creation through iteration.](https://mun-lang.org/blog/2020/05/01/memory-mapping/)
@@ -65,25 +69,24 @@ Bookmarks
  - [hot reload - How can one implement hot-swappable C++ modules? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/221/how-can-one-implement-hot-swappable-c-modules)
  - [c++ - How to Hot Reload shared library on Linux - Stack Overflow](https://stackoverflow.com/questions/56334288/how-to-hot-reload-shared-library-on-linux)
  - [Hot Reloading - Writing a Game Engine in 2017](https://web.archive.org/web/20180314073004/http://www.randygaul.net/2017/02/24/writing-a-game-engine-in-2017)
- - [Profil - Bundesagentur für Arbeit](https://web.arbeitsagentur.de/profil/profil-ui/pd/)
 
-#### 3\. Big Chunk of Memory
+### 3\. Arenas: Big Chunk of Memory
 
  - [Start Pre-allocating And Stop Worrying](https://gamesfromwithin.com/start-pre-allocating-and-stop-worrying)
  - [Memory Preallocation](https://mazyod.com/blog/2014/04/18/memory-preallocation/)
  - [Memory allocation using Pool](https://embedded-code-patterns.readthedocs.io/en/latest/pool/)
  - [Object Pool Pattern](https://gameprogrammingpatterns.com/object-pool.html)
 
-#### 4\. Game Loops
+### 4\. Game Loops
 
  - [deWiTTERS Game Loop](https://dewitters.com/dewitters-gameloop/)
  - [Fix Your Timestep! - Gaffer](https://new.gafferongames.com/post/fix_your_timestep/)
  - [Game Loop Pattern](https://gameprogrammingpatterns.com/game-loop.html)
  - [Unity Loop Lifecycle](https://docs.unity3d.com/Manual/ExecutionOrder.html)
 
-#### 5\. Resource Management
+### 5\. Resource Management
 
- - Handles
+ - Handles as a way of simplifying resource passing
    - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
    - [A Handle Approach](https://giordi91.github.io/post/resourcesystem/)
    - [Use IDs for Shaders](https://hero.handmade.network/forums/code-discussion/t/2695-rendering_architecture_tier_and_exposing_functions)
@@ -95,7 +98,7 @@ Bookmarks
    - [Resource management in c++ game engine](https://codereview.stackexchange.com/questions/253737/resource-management-in-c-game-engine)
    - [A Resource Manager for Game Assets](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/a-resource-manager-for-game-assets-r3807/)
 
-#### 6\. Asset Streaming
+### 6\. Asset Streaming
 
  - [c++ - Resource streaming with job threading system - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/109243/resource-streaming-with-job-threading-system)
  - [assets - Help streaming resources (maps, sounds, music, etc) from many files for contiguous world - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/16145/help-streaming-resources-maps-sounds-music-etc-from-many-files-for-contiguo)
@@ -110,7 +113,7 @@ Bookmarks
  - [https://riunet.upv.es/bitstream/handle/10251/63979/-JUAN%20-%20Difusión%20en%20cont%C3%ADnuo%20de%20mundos%20abiertos%3A%20Gestión%20automática%20de%20memoria%20en%20videojuegos%20de%20m....pdf?sequence=1](https://riunet.upv.es/bitstream/handle/10251/63979/-JUAN%20-%20Difusi%C3%B3n%20en%20cont%C3%ADnuo%20de%20mundos%20abiertos%3A%20Gesti%C3%B3n%20autom%C3%A1tica%20de%20memoria%20en%20videojuegos%20de%20m....pdf?sequence=1)
  - [https://www.theseus.fi/bitstream/handle/10024/101246/Luukkonen\_Timo.pdf;jsessionid=4379BE6885B2D9AD4504D1AF5F1CCB3D?sequence=1](https://www.theseus.fi/bitstream/handle/10024/101246/Luukkonen_Timo.pdf;jsessionid=4379BE6885B2D9AD4504D1AF5F1CCB3D?sequence=1)
 
-#### 7\. Scene Management ("Flat Array of Entities")
+### 7\. Scene Management ("Flat Array of Entities")
 
  - [C++ Game Dev 6: Scene Management – that games guy](https://thatgamesguy.co.uk/cpp-game-dev-6/)
  - [Unity - Scripting API: SceneManager](https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html)
@@ -119,7 +122,7 @@ Bookmarks
  - [Bevy Scenes Discussion](https://github.com/bevyengine/bevy/discussions/654)
  - [Managing Game States in C++](http://gamedevgeek.com/tutorials/managing-game-states-in-c/)
 
-#### 8\. Render Queue (for Decoupling, Sorting and Performance)
+### 8\. Render Queue (for Decoupling, Sorting and Performance)
 
  - [Cost of State Changes](https://computergraphics.stackexchange.com/questions/37/what-is-the-cost-of-changing-state/46#46)
  - [Why are Render Queues needed?](https://www.gamedev.net/forums/topic/674377-render-queues-why-are-they-needed/5269001/)
@@ -130,20 +133,20 @@ Bookmarks
  - [Rendering with a sort key : gameenginedevs](https://www.reddit.com/r/gameenginedevs/comments/yi7ke2/rendering_with_a_sort_key/)
  - [Virtual Textures](https://computergraphics.stackexchange.com/questions/1768/how-can-virtual-texturing-actually-be-efficient/1773#1773)
 
-#### 9\. Antipattern: Scene Graph
+### 9\. Antipattern: Scene Graph
 
  - [Don't use a Scene Graph](https://computergraphics.stackexchange.com/questions/8895/how-to-update-my-scene-graph)
  - [Scene graphs, an anti-pattern?](https://www.mcshaffry.com/GameCode/index.php/Thread/2235-Scene-graphs-an-anti-pattern/)
  - [What is a Scene Graph](http://archive.gamedev.net/archive/reference/programming/features/scenegraph/index.html)
 
-#### 10\. Scene Optimisation (BSP and friends)
+### 10\. Scene Optimisation (BSP and friends)
 
  - [I made a more efficient occlusion culling system : Unity3D](https://www.reddit.com/r/Unity3D/comments/p0kucc/i_made_a_more_efficient_occlusion_culling_system/)
  - [How Umbra (from Unity) works](https://medium.com/@Umbra3D/introduction-to-occlusion-culling-3d6cfb195c79)
  - [Is BSP obsolete?](https://www.reddit.com/r/gamedev/comments/hepdk9/are_bsp_trees_not_used_anymore_why/)
  - [BSP in Doom](https://twobithistory.org/2019/11/06/doom-bsp.html)
 
-#### 11\. ECS
+### 11\. ECS
 
  - Intros
    - [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
@@ -174,7 +177,7 @@ Bookmarks
    - [genaray/Arch: A high performance c# Archetype Entity Component System ( ECS ).](https://github.com/genaray/Arch)
    - [Build a Game Engine from Scratch in C++ - HackerNoon](https://hackernoon.com/build-a-game-engine-from-scratch-in-c)
 
-#### 12\. Reflection and Serialization (of Components)
+### 12\. Reflection and Serialization (of Components)
 
  - ECS Serialization
    - [c++ - ECS serialization - Stack Overflow](https://stackoverflow.com/questions/52925664/ecs-serialization)
@@ -182,12 +185,16 @@ Bookmarks
    - [Small C++ Reflection Demo - Randy Gaul's Game Programming Blog](https://web.archive.org/web/20171010001130/http://www.randygaul.net/2014/12/18/small-c-reflection-demo/)
    - [How to Write Your Own C++ Game Engine](https://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/)
 
-#### 13\. Editing
+### 13\. Editing
 
  - [Your game will always be paused in edit mode – deWiTTERS](https://dewitters.com/your-game-will-always-be-paused-in-edit-mode/)
  - [Scripting in RPG Playground – deWiTTERS](https://dewitters.com/scripting-in-rpg-playground/)
 
-#### 14\. Misc
+### 14\. Skybox and Clouds
+
+ - [How Big Budget AAA Games Render Clouds - YouTube](https://www.youtube.com/watch?v=Qj_tK_mdRcA&t=640s)
+
+### 15\. Misc
 
 ##### Input and 3D
 
@@ -215,23 +222,19 @@ Bookmarks
  - [tinysound Release - Randy Gaul's Game Programming Blog](https://web.archive.org/web/20180329151242/http://www.randygaul.net/2016/06/05/tinysound-release)
  - [Cowboy Programming » Mature Optimization](https://cowboyprogramming.com/2007/01/04/mature-optimization-2/)
 
-#### Skybox and Clouds
-
- - [How Big Budget AAA Games Render Clouds - YouTube](https://www.youtube.com/watch?v=Qj_tK_mdRcA&t=640s)
-
-#### Advanced Topics
+### Advanced Topics
 
  - [https://mamoniem.com/behind-the-pretty-frames-death-stranding/](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
  - [Explaining how fighting games use delay-based and rollback netcode - Ars Technica](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/)
 
 ## 3D Maps
 
-#### Practical
+### Practical
 
  - [eliemichel/MapsModelsImporter: A Blender add-on to import models from google maps](https://github.com/eliemichel/MapsModelsImporter)
  - [Jeff Crouse - Exporting OSM to 3D formats](https://jeffish.com/blog/osm-to-3d.html)
 
-#### Technologies
+### Technologies
 
  - [Shadow Detection · UP42](https://up42.com/marketplace/blocks/processing/shadow-detection)
  - [Tree Detection and Height From Shadow · UP42](https://up42.com/marketplace/blocks/processing/tree-height-detection)
@@ -243,7 +246,7 @@ Bookmarks
  - [python - Extract tree count from images-using CV - Stack Overflow](https://stackoverflow.com/questions/58315655/extract-tree-count-from-images-using-cv)
  - [python - Detect vegetation using opencv on satellite images - Stack Overflow](https://stackoverflow.com/questions/69000503/detect-vegetation-using-opencv-on-satellite-images)
 
-#### Catalogs
+### Catalogs
 
  - [OpenTopography - Data Catalog](https://portal.opentopography.org/dataCatalog?group=global)
  - [Download HydroSHEDS Core Products](https://www.hydrosheds.org/hydrosheds-core-downloads)
@@ -254,7 +257,7 @@ Bookmarks
  - [USGS Earth Explorer: Download Free Landsat Imagery](https://gisgeography.com/usgs-earth-explorer-download-free-landsat-imagery/)
  - [Top 20 Free Satellite Imagery Sources: Update For 2021](https://eos.com/blog/free-satellite-imagery-sources/)
 
-#### Existing Products
+### Existing Products
 
  - [Maps SDK for Unity: 3D worlds, AR, & POIs - Mapbox](https://www.mapbox.com/unity)
  - [Real World Terrain - Terrain - Unity Asset Store](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752)
@@ -270,24 +273,24 @@ Bookmarks
 
 ## Automatic Rigging
 
-#### Existing Companies
+### Existing Companies
 
  - [ACCURIG 1.1 - Free Automatic Character Rigging For All! - YouTube](https://www.youtube.com/watch?v=uNWqMCBtf3U)
  - [AccuRIG: The Next-Generation Automatic Character Rigging - ArtStation Magazine](https://magazine.artstation.com/2022/09/accurig-the-next-generation-automatic-character-rigging/)
 
-#### Research
+### Research
 
  - [https://files.is.tue.mpg.de/black/papers/sidWorkshop04.pdf](https://files.is.tue.mpg.de/black/papers/sidWorkshop04.pdf)
  - [https://www.cs.toronto.edu/~jacobson/seminar/baran-and-popovic-2007.pdf](https://www.cs.toronto.edu/~jacobson/seminar/baran-and-popovic-2007.pdf)
  - [Automatic Skeleton Rigging](https://arxiv.org/pdf/2005.00559.pdf)
 
-#### Resources
+### Resources
 
  - [timzhang642/3D-Machine-Learning: A resource repository for 3D machine learning](https://github.com/timzhang642/3D-Machine-Learning)
 
 ## Texture Generation
 
-#### Automatic Normal Texture Maker
+### Automatic Normal Texture Maker
 
  - [Release AwesomeBumpv5.1 for Win7/8/10 x32 and x64 · kmkolasinski/AwesomeBump](https://github.com/kmkolasinski/AwesomeBump/releases/tag/Winx32v5.1)
  - [How NOT to make normal maps from images or photos : KatsBits TUTORIALS](https://www.katsbits.com/tutorials/textures/how-not-to-make-normal-maps-from-photos-or-images.php)
@@ -302,7 +305,7 @@ Bookmarks
  - [gonnavis/grayscale\_bumpmap\_to\_normalmap: js 灰度凹凸贴图 转 法线贴图](https://github.com/gonnavis/grayscale_bumpmap_to_normalmap)
  - [Basic Automatic Normal Map Creation - Unreal Diffusion Editor Utility : unrealengine](https://www.reddit.com/r/unrealengine/comments/xkniik/basic_automatic_normal_map_creation_unreal/)
 
-#### Automatic Tiling
+### Automatic Tiling
 
  - [lzqsd/TileableTextureSynthesis](https://github.com/lzqsd/TileableTextureSynthesis)
  - [Texture Synthesis : Generating arbitrarily large textures from image patches. - by Devashi Choudhary - Medium](https://devashi-choudhary.medium.com/texture-synthesis-generating-arbitrarily-large-textures-from-image-patches-32dd49e2d637)
@@ -327,24 +330,24 @@ Bookmarks
 
 ## Mesh Optimization And Other Stuff
 
-#### Algorithms
+### Algorithms
 
  - [Facet Orientation Fixer](https://libigl.github.io/tutorial/#facet-orientation)
  - [libigl](https://libigl.github.io/)
  - [VCG Library: The VCG Library](http://vcg.isti.cnr.it/vcglib/index.html)
 
-#### Point Cloud to Mesh
+### Point Cloud to Mesh
 
  - [MeshInspector/MeshLib: Geometry processing library](https://github.com/MeshInspector/MeshLib#readme)
  - [meshlab - Mesh simplification for regular surfaces except details - Stack Overflow](https://stackoverflow.com/questions/54625336/mesh-simplification-for-regular-surfaces-except-details)
  - [rendering - Mesh simplification library in C# - Stack Overflow](https://stackoverflow.com/questions/32142945/mesh-simplification-library-in-c-sharp)
 
-#### Automatic Light Baking
+### Automatic Light Baking
 
  - [SG Series Part 6: Step Into The Baking Lab](https://therealmjp.github.io/posts/sg-series-part-6-step-into-the-baking-lab/)
  - [Ambient Occlusion Baking](https://libigl.github.io/tutorial/#baking-ambient-occlusion)
 
-#### Mesh Optimisation
+### Mesh Optimisation
 
 ##### Theory
 
