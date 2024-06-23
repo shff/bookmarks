@@ -1,10 +1,6 @@
 Bookmarks
 =========
 
-## UI/UX
-
- - [Free Open Source UI Resources](https://www.uidesigndaily.com/)
-
 ## Programming Theory 🧠
 
 ### OOP
@@ -226,6 +222,16 @@ Bookmarks
 
  - [https://mamoniem.com/behind-the-pretty-frames-death-stranding/](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
  - [Explaining how fighting games use delay-based and rollback netcode - Ars Technica](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/)
+
+## General Development Topics
+
+### UI/UX
+
+ - [Free Open Source UI Resources](https://www.uidesigndaily.com/)
+
+### Authorization
+
+ - [Oso: Distributed Authorization](https://www.osohq.com)
 
 ## Retro Gaming
 
