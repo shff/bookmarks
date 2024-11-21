@@ -3,7 +3,7 @@ Bookmarks
 
 ## Programming Theory 🧠
 
-### OOP
+### Case against OOP
 
  - [Case against OOP is understated, not overstated (2020)](https://news.ycombinator.com/item?id=30293622)
  - [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://news.ycombinator.com/item?id=23630640)
@@ -72,6 +72,7 @@ Bookmarks
  - [Memory Preallocation](https://mazyod.com/blog/2014/04/18/memory-preallocation/)
  - [Memory allocation using Pool](https://embedded-code-patterns.readthedocs.io/en/latest/pool/)
  - [Object Pool Pattern](https://gameprogrammingpatterns.com/object-pool.html)
+ - [Casey Muratori | Smart-Pointers, RAII, ZII? Becoming an N+2 programmer](https://www.youtube.com/watch?v=xt1KNDmOYqA)
 
 ### 4\. Game Loops
 
